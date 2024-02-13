@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #15de06;
+}
+
+.navbar {
+    background-color: #0ea8ef;
+    overflow: visible;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f7b40b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #e9242e;
+    color: rgb(20, 125, 224);
+}
